@@ -203,7 +203,17 @@ service quality, and case trends.
 
 ## 💡 Key Insights
 
-*Update this section after completing the analysis.*
+- Technical Issues represented **35%** of all customer support cases, making them the most common request type.
+
+- Overall SLA Compliance averaged **96%**, exceeding the departmental target of **95%**.
+
+- The median resolution time remained at **3 days**, with Complaint cases taking the longest to resolve.
+
+- Reopen Rate averaged **8%**, remaining below the target threshold of **10%**.
+
+- The team achieved an average **Weighted Overall Performance of 108%**, exceeding business targets across the evaluated KPIs.
+
+- Customer support volume remained stable throughout the reporting period, averaging approximately **800 cases per month**.
 
 ------------------------------------------------------------------------
 
