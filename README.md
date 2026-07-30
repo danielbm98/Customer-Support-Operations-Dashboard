@@ -190,14 +190,14 @@ service quality, and case trends.
 
 ## 📈 Key Performance Indicators
 
-  KPI                    Description
-  ---------------------- ---------------------------------
-  Overall Performance    Weighted KPI score
-  QA Score               Median quality assurance score
-  Cases Solved per Day   Median daily resolved cases
-  SLA Compliance         Percentage of cases meeting SLA
-  Resolution Days        Median resolution days
-  Reopen Rate            Percentage of reopened cases
+| KPI | Description |
+|------|-------------|
+| **Overall Performance** | Weighted KPI score calculated using configurable KPI weights. |
+| **QA Score** | Median quality assurance score achieved by support agents. |
+| **Cases Solved per Day** | Median number of customer support cases resolved per day. |
+| **SLA Compliance** | Percentage of cases resolved within the defined Service Level Agreement (SLA). |
+| **Resolution Days** | Median number of days required to resolve a customer support case. |
+| **Reopen Rate** | Percentage of cases reopened after being marked as resolved. |
 
 ------------------------------------------------------------------------
 
