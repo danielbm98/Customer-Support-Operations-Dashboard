@@ -16,8 +16,7 @@ Analysis](https://img.shields.io/badge/Data-Analysis-orange)](https://img.shield
 > priority dynamically updates customer support KPIs and operational
 > metrics across the dashboard.
 
-<img width="1296" height="720" alt="Dashboard Overview Gif" src="https://github.com/user-attachments/assets/987b7755-81c1-446b-87b4-bdb83e572d8a" />
-
+<img width="1377" height="760" alt="Dashboard Overview Gif" src="https://github.com/user-attachments/assets/0ae00ae5-dde9-4327-be62-511eac9438d4" />
 
 ------------------------------------------------------------------------
 
@@ -25,15 +24,16 @@ Analysis](https://img.shields.io/badge/Data-Analysis-orange)](https://img.shield
 
 ### Team Overview
 
-<img width="1306" height="723" alt="Team Overview" src="https://github.com/user-attachments/assets/d0a2562c-740c-4fb7-8507-03d8086af2a7" />
+<img width="1388" height="771" alt="Team Overview" src="https://github.com/user-attachments/assets/df88ba26-f8bb-4e4d-92e2-73ffa466494f" />
 
 ### Agent Performance
 
-<img width="1300" height="722" alt="Agents Overview" src="https://github.com/user-attachments/assets/aac785d6-e4ac-42fc-ab35-5843d370acfd" />
+<img width="1382" height="774" alt="Agents Overview" src="https://github.com/user-attachments/assets/b71f9cb5-86db-4229-a0a1-27b03030418e" />
 
 ### Case Operations
 
-<img width="1303" height="727" alt="Case Operations" src="https://github.com/user-attachments/assets/4d1c9759-5b17-44ba-88dd-41a09a1a152f" />
+<img width="1377" height="768" alt="Case Operations" src="https://github.com/user-attachments/assets/c813eee2-c879-4d81-9460-b81f18a105c0" />
+
 
 ------------------------------------------------------------------------
 
